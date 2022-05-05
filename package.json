@@ -1,6 +1,6 @@
 {
-  "homepage": "https://waters000.github.io/Photos-React",
-  "name": "photo-port",
+  "homepage": "http://waters000.github.io/Photos-React",
+  "name": "Photos-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
