@@ -40,7 +40,8 @@ function Nav(props) {
                   setContactSelected(false);
                 }}
               >
-                {capitalizeFirstLetter(category.name)}
+               {capitalizeFirstLetter(category.name)}
+              
               </span>
             </li>
           ))}
